@@ -1,1 +1,4 @@
-快捷指令 `/block` ,  `/unblock` ,  `/checkblock` 
+快捷指令 
+/block   
+/unblock   
+/checkblock
