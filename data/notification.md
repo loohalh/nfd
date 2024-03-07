@@ -1,0 +1,1 @@
+快捷指令 `/block` ,  `/unblock` ,  `/checkblock` 
